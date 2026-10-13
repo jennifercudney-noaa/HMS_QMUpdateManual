@@ -48,7 +48,7 @@ website:
       - href: content/Hardware.qmd
         text: Hardware
       - section: content/SoftwareAnalysis.qmd
-#        text: "Software & Analysis"
+        text: "HMS SAFE Report"
         contents: 
           - content/Software.qmd
           - content/AnalysisMethods.qmd
